@@ -1,4 +1,5 @@
 ## KshitizD.github.io  
 
-[1.My Markdown CV](http://kshitizd.github.io/First-Assignment-CV)  
-[http://kshitizd.github.io/First-Assignment-CV](http://kshitizd.github.io/First-Assignment-CV)
+* [My Markdown CV](http://kshitizd.github.io/First-Assignment-CV)  
+[http://kshitizd.github.io/First-Assignment-CV](http://kshitizd.github.io/First-Assignment-CV)  
+* Assignment 2 (soon to be published)
