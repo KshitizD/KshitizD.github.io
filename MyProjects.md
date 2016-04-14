@@ -7,6 +7,8 @@
 
 * [HTML Presentation](http://kshitizd.github.io/Second-Assignment/)
 
+* [ipython notebook simulation of Greenwood-Jovanovic Model of Financial Development](https://github.com/KshitizD/Third-Assignment_Numerical-Simulation/blob/master/Dahal_Nguyen_Huy_Obilor_-_Agent_based_modeling_approach_of_the_Greenwood-Jovanovic_model.ipynb)
+
 
 ###Thank you for visiting my page!
  
